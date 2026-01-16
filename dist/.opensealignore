@@ -1,0 +1,18 @@
+# System & Git
+.git
+.gitignore
+.DS_Store
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+venv/
+.env
+
+# Documentation (Optional: usually safe to ignore)
+README.md
+README_KR.md
+
+# OpenSeal Artifacts (Ignore the seal itself)
+openseal.json
